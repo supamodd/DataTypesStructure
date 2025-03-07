@@ -13,10 +13,13 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "perfectchislo", "perfectchi
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Geometryy", "Geometryy\Geometryy.vcxproj", "{40F3B50B-77B0-447A-B3CD-3DAB6EEAD64A}"
 EndProject
+<<<<<<< HEAD
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mathanalyt", "mathanalyt\mathanalyt.vcxproj", "{89A0B723-1214-48A5-B591-1DF9B8FA3A41}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chess", "Chess\Chess.vcxproj", "{E51671BC-DAA9-4232-85EF-A62C66250D09}"
 EndProject
+=======
+>>>>>>> 756a719a4f4af8c8834d8f7ff4752e499d8720c1
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -65,6 +68,7 @@ Global
 		{40F3B50B-77B0-447A-B3CD-3DAB6EEAD64A}.Release|x64.Build.0 = Release|x64
 		{40F3B50B-77B0-447A-B3CD-3DAB6EEAD64A}.Release|x86.ActiveCfg = Release|Win32
 		{40F3B50B-77B0-447A-B3CD-3DAB6EEAD64A}.Release|x86.Build.0 = Release|Win32
+<<<<<<< HEAD
 		{89A0B723-1214-48A5-B591-1DF9B8FA3A41}.Debug|x64.ActiveCfg = Debug|x64
 		{89A0B723-1214-48A5-B591-1DF9B8FA3A41}.Debug|x64.Build.0 = Debug|x64
 		{89A0B723-1214-48A5-B591-1DF9B8FA3A41}.Debug|x86.ActiveCfg = Debug|Win32
@@ -81,6 +85,8 @@ Global
 		{E51671BC-DAA9-4232-85EF-A62C66250D09}.Release|x64.Build.0 = Release|x64
 		{E51671BC-DAA9-4232-85EF-A62C66250D09}.Release|x86.ActiveCfg = Release|Win32
 		{E51671BC-DAA9-4232-85EF-A62C66250D09}.Release|x86.Build.0 = Release|Win32
+=======
+>>>>>>> 756a719a4f4af8c8834d8f7ff4752e499d8720c1
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
