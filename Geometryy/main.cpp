@@ -17,7 +17,7 @@ using std::endl;
 //#define CHESS2
 //#define TRIANGLEV
 #define PASCAL
-  
+
 
 
 void main()
